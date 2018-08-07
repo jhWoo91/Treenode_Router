@@ -1,4 +1,4 @@
-# Treenode_Router
-Treenode_Router.git
+# Treenode_React
+Treenode_React.git
 
-Treenode
+위 파일은 React_redux의 응용 예제 입니다
